@@ -4,3 +4,7 @@ The dataset contains 1000 entries with 20 categorial/symbolic attributes.
 In this dataset, each entry represents a person who takes a credit by a bank. 
 Each person is classified as good or bad (CLASS attribute) credit risk according to the set of attributes.
 # Task
+- Data preparation and Data exploration
+- Identify the three most significant data features which drive the credit risk
+- Modeling the credit risk
+- Model validation and evaluation using the methods that you find correct for the problem
