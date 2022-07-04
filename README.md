@@ -8,3 +8,4 @@ Each person is classified as good or bad (CLASS attribute) credit risk according
 - Identify the three most significant data features which drive the credit risk
 - Model the credit risk using Logistic Regression, Random forest, SVM etc
 - Model validation and evaluation using fi-score as the dataset is imbalanced.
+- perform prediction with a known data class
